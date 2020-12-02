@@ -9,7 +9,6 @@
 脑图链接:
 链接: https://pan.baidu.com/s/1NqN2yP0FfsrozJ6bIANTNQ 提取码: k7v9
 
- ![Alt text](image/cloud组件图.png)
  
 
 ## Eureka基础知识
